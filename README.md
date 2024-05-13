@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmadh2d
 - 👀 I’m interested in Web Development and Machine Learning technologies
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on DotNet and AngularJS Apps 
+- 🌱 I’m currently working as a Full-Stack Web Developer
+- 💞️ I’m looking to collaborate on tech stacks such as .Net, NodeJS, React, and Angular
 - 📫 You can reach me through Email: ahmadhas.b@gmail.com
 
 <!---
